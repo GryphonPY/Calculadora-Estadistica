@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora estadística y de probabilidad",
+  "description": "A web application to perform various statistical calculations, probability distribution analyses, and visualize data with charts. Supports descriptive statistics, binomial distribution, and normal distribution.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
